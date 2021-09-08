@@ -3,7 +3,7 @@
 |  |  |
 |--|--|
 | Dosen Pengampu | [Habibie Ed Dien, S.Kom., M.T.](https://github.com/hbb-polinema) |
-| Tahun Ajaran | Genap 2021/2022 |
+| Tahun Ajaran | Ganjil 2021/2022 |
 | Email | habibie@polinema.ac.id |
 | Institusi | jti.polinema.ac.id |
 
@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **contoh 123** |
-| Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3x |
+| NIM | **2041723002** |
+| Nama Lengkap | Agung Adi Saputra |
+| Kelas | TI-3E ||
 
 
 ## Struktur Folder
@@ -33,4 +33,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(nama lengkap Anda xyz)***
+***(Agung Adi Saputra)***
